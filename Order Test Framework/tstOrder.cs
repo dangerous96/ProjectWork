@@ -107,5 +107,7 @@ namespace Order_Test_Framework
             //test to see that the two values are the same 
             Assert.AreEqual(APrice.TotalPrice, TotalPrice);
         }
+
+        
     }
 }
